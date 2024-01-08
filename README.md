@@ -1,5 +1,5 @@
 # traefik_cookiesamesite
-
+I'll make this readme more useful if anyone is truly interested.
 
 
 # cookiesamesite = plugin GO module/src
