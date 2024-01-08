@@ -1,0 +1,9 @@
+displayName: Cookie SameSite
+type: middleware
+
+import: cookiesamesite
+
+summary: "Will set cookie samesite to input IF it does not exist"
+
+testData:
+  val: None
